@@ -1,5 +1,5 @@
 import styles from "./page.module.css";
 
-export default function Home() {
-   return <main className={styles.main}>asdasd</main>;
-}
+const Home = () => <main className={styles.main}>Hello world</main>;
+
+export default Home;

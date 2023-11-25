@@ -1,0 +1,20 @@
+.body {
+  background-color: $basic-onyx;
+}
+
+.backgroundBottomGradient {
+  position: absolute;
+  max-width: 80dvw;
+  max-height: 35dvh;
+  left: 10%;
+  bottom: 0;
+}
+
+.backgroundTopGradient {
+  position: absolute;
+  max-width: 40dvw;
+  max-height: 40dvh;
+  top: 0;
+  left: 0;
+}
+
