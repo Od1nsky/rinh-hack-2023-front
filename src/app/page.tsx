@@ -1,4 +1,4 @@
-import styles from "./page.module.css";
+import styles from "./page.module.scss";
 
 const Home = () => <main className={styles.main}>Hello world</main>;
 

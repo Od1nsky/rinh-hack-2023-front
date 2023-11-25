@@ -5,18 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da70216b-888b-4afd-bf0a-26fc638855aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/background-gradient-bottom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/background-gradient-top.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/styles.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/global/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/ui/Card/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/ui/Card/styles.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/ui/Navbar/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/ui/Navbar/styles.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/ui/index.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/global/globals.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/global/globals.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/styles.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/styles.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/global/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/global/_variables.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +30,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -66,6 +68,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/shared/ui" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/src/global" />
     </key>
@@ -82,7 +85,7 @@
       <workItem from="1700838330787" duration="88000" />
       <workItem from="1700838450728" duration="509000" />
       <workItem from="1700839179625" duration="7380000" />
-      <workItem from="1700928045763" duration="4566000" />
+      <workItem from="1700928045763" duration="6792000" />
     </task>
     <servers />
   </component>

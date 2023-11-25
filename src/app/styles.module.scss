@@ -1,9 +1,10 @@
 .body {
-  background-color: $basic-onyx;
+  background-color: $background-onyx;
 }
 
 .backgroundBottomGradient {
   position: absolute;
+  pointer-events: none;
   max-width: 80dvw;
   max-height: 35dvh;
   left: 10%;
@@ -12,6 +13,7 @@
 
 .backgroundTopGradient {
   position: absolute;
+  pointer-events: none;
   max-width: 40dvw;
   max-height: 40dvh;
   top: 0;

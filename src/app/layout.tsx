@@ -4,6 +4,8 @@ import { Inter } from "next/font/google";
 import Image from "next/image";
 import React from "react";
 
+import { Navbar } from "@/shared/ui";
+
 import backgroundGradientBottom from "../../public/background-gradient-bottom.png";
 import backgroundGradientTop from "../../public/background-gradient-top.png";
 import "../global/globals.scss";
@@ -19,6 +21,7 @@ export const metadata: Metadata = {
 const RootLayout = ({ children }: { children: React.ReactNode }) => (
    <html lang="ru">
       <body className={cx(inter.className, styles.body)}>
+         <Navbar />
          <main>
             {children}
             <Image
